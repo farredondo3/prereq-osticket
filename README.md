@@ -1,5 +1,3 @@
-# prereq-osticket
-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png"/>
 </p>
